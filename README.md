@@ -1,9 +1,16 @@
-AntiCheat
+AntiCheat - MCAC Edition
 =============
+The original AntiCheat plugin, but changed to suit MCAC better.
 
-AntiCheat helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
+[![Build Status](https://travis-ci.org/noahp78/AntiCheat.png?branch=master)](https://travis-ci.org/gravitylow/AntiCheat)
 
-[![Build Status](https://travis-ci.org/gravitylow/AntiCheat.png?branch=master)](https://travis-ci.org/gravitylow/AntiCheat)
+
+
+Planned
+------
+Lag Compensation
+Global Bans
+And more
 
 Usage
 -------
